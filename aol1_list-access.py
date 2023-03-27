@@ -88,7 +88,7 @@ def random_number(rozklad): # <1,100>
 
 n=[100, 500, 1000, 5000, 10000, 50000, 100000]
 koszt=[]
-rozklad='j'
+rozklad='g'
 for i in range(0,len(n)):
     koszt.append(0)
 c=0
